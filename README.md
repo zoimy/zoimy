@@ -9,6 +9,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zoimy&icon=0&color=0)](https://visitcount.itsvg.in)
+![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
