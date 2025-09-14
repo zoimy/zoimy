@@ -6,7 +6,9 @@
 <!--![](https://nirzak-streak-stats.vercel.app/?user=zoimy&theme=dark&hide_border=false)-->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=zoimy&theme=dark&hide_border=false&include_all_commits=true&count_private=true) -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/> <br/>
 
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
 ---
 [![](https://visitcount.itsvg.in/api?id=zoimy&icon=0&color=0)](https://visitcount.itsvg.in)
 ![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
